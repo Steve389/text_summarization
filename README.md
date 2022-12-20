@@ -22,3 +22,4 @@ This repository shows the different models I tried and how they performed:
 
 After different trials, the optimal combination we decided to go with was the "facebook/bart-large-cnn" model for text summarization and KeyBERT for keyword extraction.
 
+[Link](https://devpost.com/software/automated-microsoft-teams-notetaking) to the prototype developed by my team.
